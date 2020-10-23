@@ -1,0 +1,105 @@
+Volatility 3 Framework 1.2.1-beta.1
+
+PID	Process	Args
+
+4	System	Required memory at 0x20 is not valid (process exited?)
+88	Registry	Required memory at 0x20 is not valid (process exited?)
+348	smss.exe	\SystemRoot\System32\smss.exe
+436	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+508	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+528	wininit.exe	wininit.exe
+564	winlogon.exe	winlogon.exe
+648	services.exe	C:\Windows\system32\services.exe
+664	lsass.exe	C:\Windows\system32\lsass.exe
+764	svchost.exe	C:\Windows\system32\svchost.exe -k DcomLaunch -p
+792	fontdrvhost.ex	"fontdrvhost.exe"
+800	fontdrvhost.ex	"fontdrvhost.exe"
+884	svchost.exe	C:\Windows\system32\svchost.exe -k RPCSS -p
+968	dwm.exe	"dwm.exe"
+60	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p
+384	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+1052	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+1092	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p
+1168	MemCompression	Required memory at 0x20 is not valid (process exited?)
+1248	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+1284	svchost.exe	C:\Windows\System32\svchost.exe -k NetworkService -p
+1312	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+1320	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+1408	spoolsv.exe	C:\Windows\System32\spoolsv.exe
+1416	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p
+1860	svchost.exe	C:\Windows\System32\svchost.exe -k utcsvc -p
+1884	MsMpEng.exe	"C:\Program Files\Windows Defender\MsMpEng.exe"
+1900	SecurityHealth	C:\Windows\system32\SecurityHealthService.exe
+1268	svchost.exe	C:\Windows\system32\svchost.exe -k appmodel -p
+2144	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p
+2672	sihost.exe	sihost.exe
+2712	svchost.exe	C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+2764	taskhostw.exe	taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+2956	ctfmon.exe	"ctfmon.exe"
+2184	userinit.exe	Required memory at 0x9baef1b020 is not valid (process exited?)
+2316	explorer.exe	C:\Windows\Explorer.EXE
+3256	chrmstp.exe	Required memory at 0x80c88e9020 is not valid (process exited?)
+3520	dllhost.exe	C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+3708	ShellExperienc	"C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+4052	SearchUI.exe	Required memory at 0x20bfbc03548 is inaccessible (swapped)
+4064	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+2528	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+4104	ApplicationFra	C:\Windows\system32\ApplicationFrameHost.exe -Embedding
+4448	SearchIndexer.	C:\Windows\system32\SearchIndexer.exe /Embedding
+4504	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+4660	MicrosoftEdge.	Required memory at 0x635b8fd020 is not valid (process exited?)
+3936	RuntimeBroker.	Required memory at 0xed3a526020 is not valid (process exited?)
+5680	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+5928	MSASCuiL.exe	"C:\Program Files\Windows Defender\MSASCuiL.exe" 
+6032	OneDrive.exe	"C:\Users\Jimmie Castora\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+6072	cmd.exe	Required memory at 0x39c170a020 is not valid (process exited?)
+6080	cmd.exe	Required memory at 0x39cddf2020 is not valid (process exited?)
+6096	explorer.exe	Required memory at 0x56b020 is not valid (process exited?)
+3436	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+6432	dllhost.exe	C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+4332	GoogleCrashHan	Required memory at 0xd95020 is inaccessible (swapped)
+5936	GoogleCrashHan	"C:\Program Files (x86)\Google\Update\1.3.35.452\GoogleCrashHandler64.exe"
+6756	SgrmBroker.exe	C:\Windows\system32\SgrmBroker.exe
+3304	WmiPrvSE.exe	C:\Windows\system32\wbem\wmiprvse.exe
+3040	sedsvc.exe	Required memory at 0x1e1eb461ac8 is inaccessible (swapped)
+3180	cmd.exe	Required memory at 0x1b90d83020 is not valid (process exited?)
+4724	Microsoft.Phot	"C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.19111.24110.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe" -ServerName:App.AppXzst44mncqdg84v7sv6p7yznqwssy6f7f.mca
+5896	SkypeApp.exe	"C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.56.102.0_x64__kzf8qxf38zg5c\SkypeApp.exe" -ServerName:App.AppXffn3yxqvgawq9fpmnhy90fr3y01d1t5b.mca
+7160	HxOutlook.exe	Required memory at 0xef5cfb9020 is not valid (process exited?)
+5172	HxTsr.exe	"C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.12827.20400.0_x64__8wekyb3d8bbwe\HxTsr.exe" -ServerName:Hx.IPC.Server
+6628	chrome.exe	Required memory at 0x6429046020 is not valid (process exited?)
+4688	HxOutlook.exe	"C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.12827.20400.0_x64__8wekyb3d8bbwe\HxOutlook.exe" -ServerName:microsoft.windowslive.mail.AppXfbjsbkxvprcgqg6q4c9jfr0pn3kv9x5s.mca
+1276	backgroundTask	Required memory at 0xd1320e3020 is not valid (process exited?)
+4804	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+5872	chrome.exe	"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" 
+7088	chrome.exe	"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Jimmie Castora\AppData\Local\Google\Chrome\User Data" /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Jimmie Castora\AppData\Local\Google\Chrome\User Data\Crashpad" "--metrics-dir=C:\Users\Jimmie Castora\AppData\Local\Google\Chrome\User Data" --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=Win64 --annotation=prod=Chrome --annotation=ver=83.0.4103.116 --initial-client-data=0xcc,0xd0,0xd4,0xa8,0xd8,0x7ffb9958bd28,0x7ffb9958bd38,0x7ffb9958bd48
+4940	chrome.exe	"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=gpu-process --field-trial-handle=1436,13717101187713181098,6595855158209503465,131072 --gpu-preferences=MAAAAAAAAADgAAAwAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAA= --mojo-platform-channel-handle=1456 /prefetch:2
+5736	chrome.exe	"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=utility --field-trial-handle=1436,13717101187713181098,6595855158209503465,131072 --lang=en-US --service-sandbox-type=network --enable-audio-service-sandbox --mojo-platform-channel-handle=1856 /prefetch:8
+7108	chrome.exe	"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1436,13717101187713181098,6595855158209503465,131072 --disable-gpu-compositing --lang=en-US --enable-auto-reload --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=11 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=3060 /prefetch:1
+6880	av-20200624193	Required memory at 0x34a020 is not valid (process exited?)
+3944	cmd.exe	Required memory at 0xb0e0fa7020 is not valid (process exited?)
+5432	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4
+376	SkypeBackgroun	"C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.56.102.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe" -ServerName:SkypeBackgroundHost
+5448	explorer.exe	explorer.exe  -lnvp 6666
+5288	wuauclt.exe	"C:\Windows\system32\wuauclt.exe" /RunHandlerComServer
+2572	TrustedInstall	C:\Windows\servicing\TrustedInstaller.exe
+2796	TiWorker.exe	C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17134.1_none_eedfeda03074e04e\TiWorker.exe -Embedding
+6844	cmd.exe	Required memory at 0xc89b410020 is not valid (process exited?)
+4424	cmd.exe	C:\Windows\system32\cmd.exe
+6372	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4
+656	taskhostw.exe	taskhostw.exe
+3100	explorer.exe	explorer.exe  192.168.1.157 6666 -e cmd.exe
+4640	cmd.exe	cmd.exe
+1048	smartscreen.ex	C:\Windows\System32\smartscreen.exe -Embedding
+784	cmd.exe	"C:\Windows\system32\cmd.exe" 
+3480	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4
+4976	svchost.exe	C:\Windows\System32\svchost.exe -k wsappx -p
+4396	SearchProtocol	Required memory at 0x32d8d31020 is not valid (process exited?)
+4432	SearchFilterHo	Required memory at 0xe40277020 is not valid (process exited?)
+3432	chrome.exe	"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1436,13717101187713181098,6595855158209503465,131072 --disable-gpu-compositing --lang=en-US --enable-auto-reload --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=26 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=4664 /prefetch:1
+5876	chrome.exe	"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1436,13717101187713181098,6595855158209503465,131072 --disable-gpu-compositing --lang=en-US --enable-auto-reload --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=27 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=3716 /prefetch:1
+3140	chrome.exe	"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1436,13717101187713181098,6595855158209503465,131072 --disable-gpu-compositing --lang=en-US --enable-auto-reload --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=28 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=3336 /prefetch:1
+4828	chrome.exe	"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1436,13717101187713181098,6595855158209503465,131072 --disable-gpu-compositing --lang=en-US --enable-auto-reload --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=29 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=3368 /prefetch:1
+6044	chrome.exe	"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=utility --field-trial-handle=1436,13717101187713181098,6595855158209503465,131072 --lang=en-US --service-sandbox-type=xr_compositing --enable-audio-service-sandbox --mojo-platform-channel-handle=5252 /prefetch:8
+2512	chrome.exe	"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=utility --field-trial-handle=1436,13717101187713181098,6595855158209503465,131072 --lang=en-US --service-sandbox-type=none --enable-audio-service-sandbox --mojo-platform-channel-handle=5444 /prefetch:8
+3348	winpmem_v3.3.r	winpmem_v3.3.rc3.exe  --output mem.raw --format raw --volume_format raw
