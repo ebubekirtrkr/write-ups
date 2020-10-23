@@ -1,5 +1,6 @@
 # Bone to Pick
 ![](../../assets/cryptography/bone-to-pick_1.png)
+
 [Link to String](https://pastebin.com/xL04idu2) 
 If not available [Link to String](../../assets/cryptography/xL04idu2.txt)
 
