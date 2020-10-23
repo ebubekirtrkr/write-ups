@@ -1,6 +1,7 @@
 # Captured Memories
 ![](../../assets/forensics/captured-memories_1.png)
-[Zip File](../../assets/forensics/mem.raw) 
+
+[Zip File](https://drive.google.com/file/d/1porBmluAvOp9qaK-lRJf4NqYysfd9gxw/view?usp=sharing) 
 For the most of the forensics categories in ctf, we use [volatilty](https://github.com/volatilityfoundation/volatility) program and its [cheat sheet ](https://digital-forensics.sans.org/media/volatility-memory-forensics-cheat-sheet.pdf)
 Also I use [volatality3](https://github.com/volatilityfoundation/volatility3)
 Firstly let's determine  the profile
