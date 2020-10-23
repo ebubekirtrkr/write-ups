@@ -1,5 +1,5 @@
 # MESSAGE IN ARRAY
-![](assets/programming/message-in-array_1.png)
+![](../../assets/programming/message-in-array_1.png)
 ```java
 using System;
 using System.Collections.Generic;

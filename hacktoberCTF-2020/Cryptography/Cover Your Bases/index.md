@@ -1,5 +1,5 @@
 # Cover Your Bases
-![](assets/cryptography/cover-your-bases_1.png)
+![](../../assets/cryptography/cover-your-bases_1.png)
 
 `ZmxhZ3tzaG91bGRhX21hZGVfdGhpc19vbmVfaGFyZGVyfQ==` it ise basic base64 decode chall.
 It is a basic Caesar cipher.

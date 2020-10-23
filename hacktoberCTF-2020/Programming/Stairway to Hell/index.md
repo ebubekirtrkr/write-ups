@@ -1,11 +1,11 @@
 # Stairway to Hell
-![](assets/programming/stairway-to-hell_1.png)
+![](../../assets/programming/stairway-to-hell_1.png)
 If we try to connect with
 ```bash
 nc env2.hacktober.io 5001
 ```
 it shows and wants spesific sequence.
-![](assets/programming/stairway-to-hell_2.png)
+![](../../assets/programming/stairway-to-hell_2.png)
 I wrote  [solve.py](solve.py) connect with pwntools than send sequence of lines.
 ```python
 from pwn import *
@@ -27,6 +27,6 @@ for i in range(30):
 conn.sendlines(lines)
 print(conn.recv())
 ```
-![](assets/programming/stairway-to-hell_3.png)
+![](../../assets/programming/stairway-to-hell_3.png)
 
 Flag: `flag{plung3_to_the_4by55}` 
