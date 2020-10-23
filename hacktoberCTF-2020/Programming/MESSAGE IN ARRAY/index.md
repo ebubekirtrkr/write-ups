@@ -1,5 +1,7 @@
 # MESSAGE IN ARRAY
+
 ![](../../assets/programming/message-in-array_1.png)
+
 ```java
 using System;
 using System.Collections.Generic;
@@ -19,6 +21,7 @@ namespace GhostTown
          }
     }
 }
+
 ```
 `{1}` : `Nothing` 
 `{3}` : `Will` 
