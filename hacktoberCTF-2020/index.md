@@ -1,5 +1,5 @@
 # HacktoberCTF-2020
-I was in the `Numinous Episcopate` with reammates [batcain](http://github.com/batcain/) [lumos](https://github.com/nurpabuccu)
+I was in the `Numinous Episcopate` with teammates [batcain](http://github.com/batcain/) and [lumos](https://github.com/nurpabuccu)
 We completed CTF at `38.` place with `4805` points.
 
 ## Challenges
