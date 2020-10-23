@@ -1,7 +1,7 @@
 # Public Service
 ![](../../../assets/forensics/public-service_1.png)
 
-[Zip File](../https://drive.google.com/file/d/1porBmluAvOp9qaK-lRJf4NqYysfd9gxw/view?usp=sharing) 
+[Zip File](https://drive.google.com/file/d/1porBmluAvOp9qaK-lRJf4NqYysfd9gxw/view?usp=sharing) 
 Please before look to [Evil Twin](Forensics/Evil%20Twin/index.md)
 We need to dump the process with PID `5448`
 ```bash
