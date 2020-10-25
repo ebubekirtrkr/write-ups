@@ -3,7 +3,7 @@ I was in the `Numinous Episcopate` with teammates [batcain](http://github.com/ba
 
 We completed CTF at `38.` place with `4805` points.
 
-You can read other challenges' write-ups from [Nur's blog](http://nur.pub/hacktober) 
+You can read other challenges' write-ups from [Nur's blog](http://nur.pub/hacktober)
 
 ## Challenges
 ### Cryptography
