@@ -9,10 +9,10 @@
 
 ![](../../assets/Tuesday/security-txt_2.png)
 
-Import [public key](https://www.senork.de/openpgp.asc) (if not reachable [public key](../../assets/Tuesday/openpgp.asc)) with pkg tool to see details 
+Import [public key](https://www.senork.de/openpgp.asc) (if not reachable [public key](../../assets/Tuesday/openpgp.asc)) with gpg  tool to see details 
 
 ```bash
-	gpk openpgp.asc
+	gpg  openpgp.asc
 ```
 
 anddd flag is here.
