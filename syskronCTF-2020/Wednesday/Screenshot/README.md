@@ -17,7 +17,7 @@ and  at its upper center
 
 ![](../../assets/Wednesday/screenshot_4.png)
 
-Go to data exract section and exract data with green plane 0 , lsb and column settings checked.
+Go to data extract section and exract data with green plane 0 , lsb and column settings checked.
 
 ![](../../assets/Wednesday/screenshot_5.png)
 
