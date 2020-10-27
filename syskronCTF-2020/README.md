@@ -3,6 +3,10 @@ I was in the [`AUCC`](https://ctftime.org/team/32148) team.
 
 We completed CTF at `23.` place with `3420` points.
 
+You can also read from [aucyberclub-syskronctf solutions](https://www.aucyberclub.org/cozumler/2020/10/27/syskronctf_en.html)
+
+Türkçe [aucyberclub-syskronctf çözümleri](https://www.aucyberclub.org/cozumler/2020/10/26/syskronctf.html)
+
 [ctftime event page](https://ctftime.org/event/1148)
 
 ## Challenges
